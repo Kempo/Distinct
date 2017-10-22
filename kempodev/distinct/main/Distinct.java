@@ -43,7 +43,6 @@ import net.minecraft.item.Item;
 
 public class Distinct {
 	public static ArrayList<String> lol = new ArrayList<String>();
-	//dong
 	private Minecraft mc;
 	private final String buildVersion = "3-15-14";
 	/**MANAGERS **/
